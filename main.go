@@ -17,6 +17,10 @@ package main
 
 import "github/FelixAMWatts/KEIL_STUDIO_CLI/cmd"
 
+
+const (
+)
+
 func main() {
 	cmd.Execute()
 }
